@@ -41,9 +41,25 @@ Fråga 6: Vem skrev bokserien om Earthsee
 4. Margaret Atwood
 (Fråga 6 svar: 3)
 
+
 Fråga 7: Vilket år släpptes plattan Purple Rain med Prince?
 1: 1979
 2: 1982
 3: 1984
 4: 1986
 (Fråga 7: Svar 3)
+
+Fråga 3: Hur många personer finns det i rummer just nu?
+1. 1 person
+2. 2 personer
+3. 3 personer
+4. 4 personer
+5. 5 personer
+Fråga 1 svar 5. 5 personer.
+
+Fråga 8: Vilken svensk författare har gett namn åt Selma Lagerlöfs Torg på Hisingen?
+1. Astrid Lindgren
+2. Elsa Beskow
+3. Selma Lagerlöw
+4. Måns Selmerlöf
+Fråga 4 svar: 4
