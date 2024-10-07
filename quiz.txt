@@ -26,6 +26,22 @@ Fråga 4: Hur många smörbultar får man fiska vid Ölandsbron?
 3. 300 kg
 4. 1 kg
 (Fråga 4 svar: vet inte faktiskt)
+
+Fråga 5: Vad behöver du ha med för att få med din commit?
+1. Message
+2. Pull
+3. Push
+4. rebase
+Svar fråga 5: 1 Message
+
+Fråga 6: Vem skrev bokserien om Earthsee
+1. JRR Tolkien
+2. Ann Leckie
+3. Ursula K. LeGuin
+4. Margaret Atwood
+(Fråga 6 svar: 3)
+
+
 Fråga 3: Hur många personer finns det i rummer just nu?
 1. 1 person
 2. 2 personer
