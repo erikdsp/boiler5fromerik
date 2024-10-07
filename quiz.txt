@@ -4,3 +4,10 @@ Fråga 1: Vem spelade huvudrollen Bilbo i filmserien The Hobbit?
 3. Martin Freeman
 4. Graham McTavish
 (Fråga 1 svar: 3)
+
+Fråga 2: Hur många smörbultar får man fiska vid Ölandsbron?
+1. 0
+2. 3
+3. 300 kg
+4. 1 kg
+(Fråga 2 svar: vet inte faktiskt)
