@@ -5,9 +5,33 @@ Fråga 1: Vem spelade huvudrollen Bilbo i filmserien The Hobbit?
 4. Graham McTavish
 (Fråga 1 svar: 3)
 
+Fråga 2: Vem regisserade filmen "The Lord of the Rings"?
+1. Peter Jackson
+2. Steven Spielberg
+3. James Cameron
+4. George Lucas
+
+Fråga 2 svar: 1. Peter Jackson
+
+
+Vilken är Sveriges bästa stad?
+1) Göteborg
+2) Göteborg
+3) Göteborg
+4) Göteborg
+
+Fråga 4: Hur många smörbultar får man fiska vid Ölandsbron?
+1. 0
+2. 3
+3. 300 kg
+4. 1 kg
+(Fråga 4 svar: vet inte faktiskt)
+
+
 Fråga 6: Vem skrev bokserien om Earthsee
 1. JRR Tolkien
 2. Ann Leckie
 3. Ursula K. LeGuin
 4. Margaret Atwood
 (Fråga 6 svar: 3)
+
