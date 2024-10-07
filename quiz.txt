@@ -13,9 +13,16 @@ Fråga 2: Vem regisserade filmen "The Lord of the Rings"?
 
 Fråga 2 svar: 1. Peter Jackson
 
-Fråga 3: Hur många smörbultar får man fiska vid Ölandsbron?
+
+Vilken är Sveriges bästa stad?
+1) Göteborg
+2) Göteborg
+3) Göteborg
+4) Göteborg
+
+Fråga 4: Hur många smörbultar får man fiska vid Ölandsbron?
 1. 0
 2. 3
 3. 300 kg
 4. 1 kg
-(Fråga 3 svar: vet inte faktiskt)
+(Fråga 4 svar: vet inte faktiskt)
