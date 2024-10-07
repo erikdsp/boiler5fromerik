@@ -42,6 +42,13 @@ Fråga 6: Vem skrev bokserien om Earthsee
 (Fråga 6 svar: 3)
 
 
+Fråga 7: Vilket år släpptes plattan Purple Rain med Prince?
+1: 1979
+2: 1982
+3: 1984
+4: 1986
+(Fråga 7: Svar 3)
+
 Fråga 3: Hur många personer finns det i rummer just nu?
 1. 1 person
 2. 2 personer
