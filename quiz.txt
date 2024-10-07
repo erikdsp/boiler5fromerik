@@ -4,3 +4,11 @@ Fråga 1: Vem spelade huvudrollen Bilbo i filmserien The Hobbit?
 3. Martin Freeman
 4. Graham McTavish
 (Fråga 1 svar: 3)
+
+Fråga 3: Hur många personer finns det i rummer just nu?
+1. 1 person
+2. 2 personer
+3. 3 personer
+4. 4 personer
+5. 5 personer
+Fråga 1 svar 5. 5 personer.
