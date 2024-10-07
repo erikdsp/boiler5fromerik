@@ -4,9 +4,3 @@ Fråga 1: Vem spelade huvudrollen Bilbo i filmserien The Hobbit?
 3. Martin Freeman
 4. Graham McTavish
 (Fråga 1 svar: 3)
-
-Vilken är Sveriges bästa stad?
-1. Göteborg
-2. Göteborg
-3. Göteborg
-4. Göteborg
