@@ -4,3 +4,11 @@ Fråga 1: Vem spelade huvudrollen Bilbo i filmserien The Hobbit?
 3. Martin Freeman
 4. Graham McTavish
 (Fråga 1 svar: 3)
+
+Fråga 2: Vem regisserade filmen "The Lord of the Rings"?
+1. Peter Jackson
+2. Steven Spielberg
+3. James Cameron
+4. George Lucas
+
+Fråga 2 svar: 1. Peter Jackson
